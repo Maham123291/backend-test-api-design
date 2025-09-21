@@ -1,7 +1,7 @@
 {
   "name": "github-contributors-api",
   "version": "1.0.0",
-  "description": "GitHub new contributors tracking API for Airbnb organization",
+  "description": "GitHub new contributors tracking API for github organization",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
@@ -54,6 +54,6 @@
     "typescript",
     "express"
   ],
-  "author": "Your Name",
+  "author": "Maham Waseem",
   "license": "MIT"
 }
